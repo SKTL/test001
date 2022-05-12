@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="taobin">
+    <output-path>$PROJECT_DIR$/out/artifacts/taobin</output-path>
+    <root id="archive" name="taobin.jar">
+      <element id="module-output" name="taobin" />
+    </root>
+  </artifact>
+</component>

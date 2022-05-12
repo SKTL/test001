@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="ApacheJMeter_components">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ApacheJMeter_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ApacheJMeter_java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jorphan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2-api-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-slf4j-impl-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.30.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
